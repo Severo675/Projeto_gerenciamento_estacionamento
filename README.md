@@ -9,7 +9,7 @@ Será tentado uma inteface em 3D, ficando assim mais visivel como queremos o est
 
 As vagas serão identificadas por placas numéricas, de 01 a 09, que estarão a o lado das vagas.
 
-Até então adotamos o padrão MVC (Model-View-Controller), fazendo com que fique mais fácil a separação de responsabilidades, o CRUD tambem.
+Até então adotamos o padrão MVC (Model-View-Controller), fazendo com que fique mais fácil a separação de responsabilidades, e o CRUD tambem.
 
 
 Model, será responsável pelos dados e as regras do projeto.
@@ -20,15 +20,16 @@ Controller, será responsavél pela comunicação entre eles.
 
 Ainda está sendo análisado se continuará nesse processo de MVC.
 
-Esse projeto poderá ser útil mais pra frente, vejo muitas dificuldades em estacionamento de shopping, prédios, escolas, faculdades..., por falta de organização, carros entrando sem ter vagas disponivéis pois na entrada do local não tem infomações concretas se tem vagas disponivéis ou não, esse projeto terá como objetivo suprir esses tipos dificuldades.
+Esse projeto poderá ser útil mais pra frente, vejo muitas dificuldades em estacionamento de shopping, prédios, escolas, faculdades..., por falta de organização, carros entrando sem ter vagas disponíveis pois na entrada do local não tem infomações concretas se tem vagas disponíveis ou não, esse projeto terá como objetivo suprir esses tipos de dificuldades.
 
-Por fijm, usaremos aplicaçôes foram e serão aplicadas em sala de aula.
+Por fim, usaremos aplicaçôes que foram e serão aplicadas em sala de aula.
 
 ### Alunos:
 Débora Severo 01852854
 
 Cauã Luiz 01848208
 
+Antes que questione, vai que, por que só dois alunos, acreditamos que seja melhor!, até por que o projeto não será tão grande.
 
 
 
