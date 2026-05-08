@@ -9,7 +9,8 @@ Será tentado uma inteface em 3D, ficando assim mais visivel como queremos o est
 
 As vagas serão identificadas por placas numéricas, de 01 a 09, que estarão a o lado das vagas.
 
-Até então adotamos o padrão MVC (Model-View-Controller), fazendo com que fique mais fácil a separação de responsabilidades.
+Até então adotamos o padrão MVC (Model-View-Controller), fazendo com que fique mais fácil a separação de responsabilidades, o CRUD tambem.
+
 
 Model, será responsável pelos dados e as regras do projeto.
 
@@ -25,6 +26,7 @@ Por fijm, usaremos aplicaçôes foram e serão aplicadas em sala de aula.
 
 ### Alunos:
 Débora Severo 01852854
+
 Cauã Luiz 01848208
 
 
